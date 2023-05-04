@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url(/img/fundoalternativo.jpeg) no-repeat bottom/cover;
+    background: linear-gradient(to bottom, rgb(173, 214, 254), #ADD6FE, #5B9AFE, #9EF0FD);
     height: 92vh;
 }
 
